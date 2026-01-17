@@ -9,9 +9,10 @@ A beautiful and functional weather application built with Flutter. This project 
 
 ## 📱 Screenshots
 
-| Home Screen                                  | Weather Result                                  | Loading State                                   |
-| -------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| <img src="screenshots/home.png" width="200"> | <img src="screenshots/weather.png" width="200"> | <img src="screenshots/loading.png" width="200"> |
+
+<p align="center">
+  <img src="ss/apk_cuaca.png">
+</p>
 
 ## ✨ Features
 
