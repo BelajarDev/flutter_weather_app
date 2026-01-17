@@ -24,3 +24,9 @@ A beautiful and functional weather application built with Flutter. This project 
 - 🌐 **Free API** - Uses Open-Meteo API (no API key required)
 
 ## 🏗️ Project Architecture
+
+lib/
+├── models/ # Data models (Weather)
+├── services/ # API service (WeatherService)
+├── screens/ # UI screens (HomeScreen)
+└── widgets/ # Reusable widgets (WeatherCard)
